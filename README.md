@@ -46,7 +46,7 @@ python -m src.main
 
 ## Тесты и Allure-отчет
 
-Установка зависимостей (пример):
+Установка зависимостей:
 ```bash
 pip install -r requirements.txt
 ```
